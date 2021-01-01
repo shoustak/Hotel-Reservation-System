@@ -3,7 +3,9 @@
 This app is a system for managing hotel reservations and payments.
 
 •	Auto-managed selection of rooms by room type and number of guests using a sorting algorithm.
+
 •	Tracking the number of available rooms, payments, and departure dates.
+
 • Query from database information on rooms, guests, type of host, number of guests in each room.
 
 ## Screenshots
